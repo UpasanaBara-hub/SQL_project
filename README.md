@@ -72,7 +72,7 @@ Determine the top 3 most ordered pizza types based on revenue for each pizza cat
  ----
 
  ## Dataset Source
- Dataset used in this project was inspired by public pizza sales datasets (available on Kaggle and Github).
+ Dataset used in this project was inspired by public pizza sales datasets (https://github.com/UpasanaBara-hub/SQL_project/blob/main/pizza_sales%20(1).zip).
  * Note: Data was used for educational and analytical demonstration purpose.*
 
 -------

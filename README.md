@@ -65,7 +65,7 @@ Determine the top 3 most ordered pizza types based on revenue for each pizza cat
 - Discontinue or rebrand ** low-performing pizzas**.
 - Track regional prefrences to customize menu strategy.
 
- Skills Demonstrated
+ ## Skills Demonstrated
  'Data Cleaning', 'SQL Joins', 'Subqueries', 'CTE', 'Window Functions'
  'Business Analysis', 'Sales Trend Analysis', Data Visualization'
 
@@ -81,5 +81,5 @@ Determine the top 3 most ordered pizza types based on revenue for each pizza cat
 I'm passionate about turning data into insights!
 Let's connect on linkedIn (https://www.linkedin.com/in/upasana-bara-225611247/)
 
-### If you like this project, don't forget to star the project!
+### If you like this project, don't forget to star the repo!
 

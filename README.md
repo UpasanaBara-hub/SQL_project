@@ -18,9 +18,9 @@ Using SQL, I performed end-to-end analysis including **data cleaning, aggregatio
 -------
 
 ## Tools & Skills
-**SQL Server Management Studio (SSMS)**.
-**SQL** (Joins, CTEs, Subqueries.Aggregations, Window Functions)
-**Excel** (for data review and data modelling)
+- **SQL Server Management Studio (SSMS)**.
+- **SQL** (Joins, CTEs, Subqueries.Aggregations, Window Functions)
+- **Excel** (for data review and data modelling)
 
 ## Key Insights & Results
 •	Total Orders: 21350 pizzas placed
